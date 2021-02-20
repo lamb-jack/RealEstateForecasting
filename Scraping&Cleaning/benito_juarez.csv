@@ -24,8 +24,8 @@ attributes,price,status,adress
  253 m² construidos | 4 recs. ,"13,000,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
  130 m² construidos | 3 recs. ,"6,000,000",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
  124 m² construidos | 3 recs. ,"5,900,000",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
- 124 m² construidos | 3 recs. ,"5,899,900",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
  124 m² construidos | 3 recs. ,"5,899,999",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
+ 124 m² construidos | 3 recs. ,"5,899,900",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
  124 m² construidos | 3 recs. ,"5,899,000",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
  300 m² construidos | 4 recs. ,"8,500,000",Casa en venta , Venta Casa - Del Valle Centro - Benito Juárez - Distrito Federal 
  225 m² construidos | 3 recs. ,"9,000,000",Casa en venta , Cda. Lopez Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
@@ -34,8 +34,8 @@ attributes,price,status,adress
  150 m² construidos | 3 recs. ,"6,160,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  155 m² construidos | 3 recs. ,"6,550,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  148 m² construidos | 3 recs. ,"6,070,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
- 150 m² construidos | 3 recs. ,"6,150,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  111 m² construidos | 3 recs. ,"6,160,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
+ 150 m² construidos | 3 recs. ,"6,150,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  155 m² construidos | 3 recs. ,"6,500,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  155 m² construidos | 3 recs. ,"6,700,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
  148 m² construidos | 3 recs. ,"6,050,000",Casa en venta , Holbein - San Juan - Benito Juárez - Distrito Federal 
@@ -101,6 +101,7 @@ attributes,price,status,adress
  89 m² construidos | 2 recs. ,"1,190,000",Casa en venta , Guillain 39 - Mixcoac - Benito Juárez - Distrito Federal 
  115 m² construidos | 3 recs. ,"1,960,000",Casa en venta , Gabriel Mancera 114 - Del Valle Norte - Benito Juárez - Distrito Federal 
  75 m² construidos | 2 recs. ,"1,170,000",Casa en venta , Av. José María Rico 634 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 177 m² construidos ,"9,000,000",Casa en venta , Gabriel Mancera - Del Valle Centro - Benito Juárez - Distrito Federal 
  1987 m² construidos | 2 recs. ,"20,500,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
  102 m² construidos | 2 recs. ,"3,880,000",Casa en venta , Pennsylvania 222 - Nápoles - Benito Juárez - Distrito Federal 
  134 m² construidos | 3 recs. ,"1,360,000",Casa en venta , Patricio Sanz 28 - Del Valle Norte - Benito Juárez - Distrito Federal 
@@ -147,19 +148,355 @@ attributes,price,status,adress
  224 m² construidos | 3 recs. ,"10,200,000",Casa en venta , Rodrigo Cifuentes - San José Insurgentes - Benito Juárez - Distrito Federal 
  372 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
  258 m² construidos | 3 recs. ,"8,550,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 3 habs. ,"4,950,000",Casa en venta , Bertha 00 - Nativitas - Benito Juárez - Distrito Federal 
+ 400 m² cubiertos | 3 habs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 215 m² cubiertos | 4 habs. ,"8,300,000",Casa en venta , Zempoala - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 326 m² construidos ,"10,900,000",Casa en venta , Av. Eugenia - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 770 m² cubiertos | 5 habs. ,"33,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 250 m² construidos | 4 recs. ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 293 m² construidos | 4 recs. ,"9,900,000",Casa en venta , Uxmal 364 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 385 m² construidos ,"27,000,000",Casa en venta , Matías Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 219 m² construidos | 3 recs. ,"12,587,000",Casa en venta , Providencia - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 247 m² construidos | 4 recs. ,"8,300,000",Casa en venta , Indiana 78 - Nápoles - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"1,382,000",Casa en venta , Benito Juárez - Distrito Federal 
+ 311 m² construidos | 3 habs. ,"13,500,000",Casa en venta , Mayorazgo de Luyando - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 200 m² cubiertos | 3 habs. ,"3,000,000",Casa en venta , Calle Balboa 740 - Portales Sur - Benito Juárez - Distrito Federal 
+ 300 m² cubiertos | 5 habs. ,"9,500,000",Casa en venta , Matias Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 259 m² cubiertos | 4 habs. ,"9,800,000",Casa en venta , Calle 5 16 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , Hilario Perez de Leon 67 - Américas Unidas - Benito Juárez - Distrito Federal 
+ 311 m² construidos | 5 recs. ,"15,500,000",Casa en venta , Pestalozii - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 290 m² construidos | 3 recs. ,"14,000,000",Casa en venta , Súper Casa en Venta en Letran Valle. La Mejor - Letran Valle - Benito Juárez - Distrito Federal 
+ 276 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 4 recs. ,"5,850,000",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
+ 188 m² construidos | 3 recs. ,"6,950,000",Casa en venta , ANAXAGORAS 0 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 235 m² cubiertos | 3 habs. ,"15,216,609",Casa en venta , Amores - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 243 m² cubiertos | 4 habs. ,"9,800,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , hilario Perez de Leon - Narvarte - Benito Juárez - Distrito Federal 
+ 290 m² cubiertos | 4 habs. ,"9,980,000",Casa en venta , Narvarte996 - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 4 recs. ,"8,800,000",Casa en venta , Mier y Pesado - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 364 m² construidos | 4 recs. ,"16,000,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"11,000,000",Casa en venta , FELIX PARRA 176 - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 301 m² construidos | 3 recs. ,"10,900,000",Casa en venta , CERRADA DE XOLA 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 307 m² construidos | 5 recs. ,"10,700,000",Casa en venta , Empresa - San Juan - Benito Juárez - Distrito Federal 
+ 217 m² construidos | 3 recs. ,"10,350,000",Casa en venta , Cda. San Borja 0001 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 250 m² cubiertos | 4 habs. ,"8,000,000",Casa en venta , Mitla 397 - Colonia Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 278 m² cubiertos | 4 recs. ,"12,000,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 200 m² cubiertos | 3 recs. ,"3,000,000",Casa en venta , Calle Balboa 724 - Portales Sur - Benito Juárez - Distrito Federal 
+ 265 m² cubiertos | 4 recs. ,"8,000,000",Casa en venta , Cuicuilco - Letran Valle - Benito Juárez - Distrito Federal 
+ 448 m² construidos | 4 recs. ,"15,450,000",Casa en venta , Peten - Narvarte - Benito Juárez - Distrito Federal 
+ 252 m² construidos | 4 recs. ,"9,980,000",Casa en venta , Miguel Laurent - Letran Valle - Benito Juárez - Distrito Federal 
+ 400 m² construidos | 3 recs. ,"13,400,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 190 m² construidos | 3 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 78 - Portales - Benito Juárez - Distrito Federal 
+ 373 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Uvas 36 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 386 m² construidos | 5 habs. ,"5,018,530",Casa en venta , Benito Juárez - Distrito Federal 
+ 315 m² cubiertos | 3 habs. ,"9,650,000",Casa en venta , Ixcateopan - Letran Valle - Benito Juárez - Distrito Federal 
+ 244 m² cubiertos | 3 habs. ,"8,400,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 450 m² construidos | 3 recs. ,"15,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 247 m² construidos | 3 recs. ,"15,046,668",Casa en venta , Amores - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 350 m² construidos | 3 recs. ,"13,950,000",Casa en venta , Colorado - Nápoles - Benito Juárez - Distrito Federal 
+ 167 m² construidos | 3 recs. ,"6,700,000",Casa en venta , Av Primero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 586 m² construidos | 5 recs. ,"43,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 213 m² construidos | 3 recs. ,"6,500,000",Casa en venta , Cadiz - Alamos - Benito Juárez - Distrito Federal 
+ 348 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Patricio Sanz - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 334 m² construidos | 3 recs. ,"15,200,000",Casa en venta , RETORNO DE MAYORAZGO DE LUYANDO 43 - Xoco - Benito Juárez - Distrito Federal 
+ 276 m² construidos | 4 recs. ,"5,500,000",Casa en venta , Portales Norte - Benito Juárez - Distrito Federal 
+ 196 m² construidos | 3 recs. ,"9,814,544",Casa en venta , Mariscal Sucre - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 194 m² construidos | 5 recs. ,"6,700,000",Casa en venta , Presidentes 34 - Portales Oriente - Benito Juárez - Distrito Federal 
+ 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 183 m² construidos | 4 recs. ,"9,100,000",Casa en venta , Avenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 188 m² construidos | 3 recs. ,"7,150,000",Casa en venta , ANAXAGORAS 00 - Narvarte - Benito Juárez - Distrito Federal 
+ 460 m² construidos | 4 recs. ,"16,500,000",Casa en venta , Enrique Rebsamen - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Calle Rumania 923 - Portales Sur - Benito Juárez - Distrito Federal 
+ 219 m² construidos | 2 recs. ,"6,700,000",Casa en venta , VISTA HERMOSA - General Pedro Maria Anaya - Benito Juárez - Distrito Federal 
+ 700 m² construidos | 4 recs. ,"17,480,000",Casa en venta , Georgia 20 - Nápoles - Benito Juárez - Distrito Federal 
+ 129 m² construidos | 3 recs. ,"8,400,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 190 m² construidos | 3 recs. ,"7,450,000",Casa en venta , AMORES - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 96 m² construidos | 2 recs. ,"4,890,000",Casa en venta , Rochester - Nápoles - Benito Juárez - Distrito Federal 
+ 500 m² construidos | 4 recs. ,"17,000,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 490 m² construidos | 7 recs. ,"16,500,000",Casa en venta , PALENQUE 413 - Narvarte - Benito Juárez - Distrito Federal 
+ 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 392 m² construidos | 2 recs. ,"11,900,000",Casa en venta , Los Juárez - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 488 m² construidos | 3 recs. ,"12,798,745",Casa en venta , Av. tres - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 325 m² construidos | 5 recs. ,"6,700,000",Casa en venta , RUBEN M CAMPOS 2811 - Villa De Cortes - Benito Juárez - Distrito Federal 
+ 345 m² construidos | 3 recs. ,"9,000,000",Casa en venta , Ixcateopan 201 - Letran Valle - Benito Juárez - Distrito Federal 
+ 170 m² construidos | 3 recs. ,"7,800,000",Casa en venta , Amores 1 - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 245 m² construidos | 3 recs. ,"13,209,000",Casa en venta , SAN Lorenzo - Benito Juárez - Distrito Federal 
+ 403 m² construidos | 3 recs. ,"18,500,000",Casa en venta , Insurgentes Mixcoac - Benito Juárez - Distrito Federal 
+ 318 m² construidos | 5 recs. ,"12,800,000",Casa en venta , Providencia - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 236 m² construidos | 4 recs. ,"7,500,000",Casa en venta , La Quemada 0001 - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 230 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Agustin González de Cosío - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 323 m² construidos | 4 recs. ,"7,600,000",Casa en venta , Alhambra - Portales Sur - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 4 recs. ,"6,000,000",Casa en venta , LUIS BRAILE 250 - Independencia - Benito Juárez - Distrito Federal 
+ 188 m² construidos | 3 recs. ,"7,450,000",Casa en venta , Av. Amores - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 81 m² construidos | 2 recs. ,"4,100,000",Casa en venta , Eje 8 Sur - Xoco - Benito Juárez - Distrito Federal 
+ 160 m² construidos | 3 recs. ,"4,000,000",Casa en venta , Callejón Santísima 12 - Santa Cruz Atoyac - Benito Juárez - Distrito Federal 
+ 133 m² construidos | 3 recs. ,"7,698,978",Casa en venta , Uxmal - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 540 m² construidos | 6 recs. ,"35,000,000",Casa en venta , ADOLFO PRIETO - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 148 m² construidos | 2 recs. ,"6,500,000",Casa en venta , Av Primero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 174 m² construidos | 2 recs. ,"6,200,000",Casa en venta , Aragón - Alamos - Benito Juárez - Distrito Federal 
+ 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 317 m² construidos | 3 recs. ,"9,800,000",Casa en venta , IXCATEOPAN 1 - Letran Valle - Benito Juárez - Distrito Federal 
+ 403 m² construidos | 4 recs. ,"18,500,000",Casa en venta , Malaga 0 - Mixcoac - Benito Juárez - Distrito Federal 
+ 368 m² construidos | 5 recs. ,"10,000,000",Casa en venta , San Pedro de los Pinos - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 192 m² construidos | 2 recs. ,"8,600,000",Casa en venta , Miguel Serrano 13 - 4 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 296 m² construidos | 5 cuartos ,"11,990,000",Casa en venta , EMPRESA 1 - Insurgentes Mixcoac - Benito Juárez - Distrito Federal 
+ 306 m² cubiertos ,"11,800,000",Casa en venta , Mitla 0001 - Narvarte - Benito Juárez - Distrito Federal 
+ 400 m² cubiertos | 5 cuartos ,"19,700,000",Casa en venta , PETEN - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 370 m² cubiertos | 3 cuartos ,"16,500,000",Casa en venta , CERRADA PERPETUA - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 238 m² construidos | 3 cuartos ,"10,400,000",Casa en venta , Fragonard 48 - San Juan - Benito Juárez - Distrito Federal 
+ 900 m² cubiertos | 5 cuartos ,"11,000,000",Casa en venta , Canarias 103 - Portales - Benito Juárez - Distrito Federal 
+ 166 m² cubiertos | 3 recs. ,"6,000,000",Casa en venta , Calle Gabriel Mancera 46 - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 184 m² construidos | 3 recs. ,"7,550,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 662 m² construidos ,"34,000,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 233 m² construidos | 3 recs. ,"7,300,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 3 cuartos ,"8,300,000",Casa en venta , Aragón 269 - Alamos - Benito Juárez - Distrito Federal 
+ 450 m² cubiertos | 6 cuartos ,"12,600,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 320 m² cubiertos | 4 cuartos ,"9,000,000",Casa en venta , Centenario 3 - Santa Cruz Atoyac - Benito Juárez - Distrito Federal 
+ 470 m² cubiertos ,"31,000,000",Casa en venta , Calle 12 0001 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 553 m² cubiertos | 7 cuartos ,"27,900,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 315 m² cubiertos | 4 cuartos ,"13,500,000",Casa en venta , Nicolas San Juan 1450 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 510 m² cubiertos | 7 cuartos ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
+ 210 m² cubiertos | 3 cuartos ,"2,320,000",Casa en venta , Isabel La Catolica 0 - Alamos - Benito Juárez - Distrito Federal 
+ 580 m² construidos | 3 recs. ,"33,000,000",Casa en venta , 1CDA SAN BORJA - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 216 m² construidos | 3 cuartos ,"9,200,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 480 m² cubiertos | 6 cuartos ,"20,000,000",Casa en venta , ARKANSAS - Nápoles - Benito Juárez - Distrito Federal 
+ 550 m² cubiertos | 4 cuartos ,"29,000,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
+ 243 m² cubiertos | 4 cuartos ,"10,950,000",Casa en venta , Narvarte - Benito Juárez - Distrito Federal 
+ 183 m² cubiertos | 4 cuartos ,"9,100,000",Casa en venta , Avenida Coyoacán - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 130 m² cubiertos | 2 cuartos ,"5,800,000",Casa en venta , ALHAMBRA 1011 - Portales Sur - Benito Juárez - Distrito Federal 
+ 389 m² construidos | 4 cuartos ,"15,500,000",Casa en venta , ANEXAGORAS 29 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 261 m² construidos | 3 cuartos ,"11,135,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 168 m² construidos | 3 recs. ,"7,290,000",Casa en venta , Calle 20 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 180 m² construidos | 3 recs. ,"3,380,000",Casa en venta , Benito Juárez - Distrito Federal 
+ 141 m² construidos | 3 cuartos ,"5,300,000",Casa en venta , Nativitas - Benito Juárez - Distrito Federal 
+ 124 m² cubiertos | 3 recs. ,"2,700,000",Casa en venta , Castilla 142 - Alamos - Benito Juárez - Distrito Federal 
+ 590 m² cubiertos ,"32,500,000",Casa en venta , Yosemite - Nápoles - Benito Juárez - Distrito Federal 
+ 140 m² cubiertos | 2 cuartos ,"5,800,000",Casa en venta , Portales Sur - Benito Juárez - Distrito Federal 
+ 550 m² cubiertos | 4 cuartos ,"29,000,000",Casa en venta , AMORES - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 229 m² cubiertos | 3 cuartos ,"485,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 220 m² construidos | 3 recs. ,"10,600,000",Casa en venta , Segunda privada de Romero de Terreros - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 380 m² construidos | 3 recs. ,"8,500,000",Casa en venta , Iztaccíhuatl - Benito Juárez - Distrito Federal 
+ 500 m² construidos | 4 recs. ,"19,200,000",Casa en venta , Miraflores - Insurgentes San Borja - Benito Juárez - Distrito Federal 
+ 227 m² construidos | 3 recs. ,"9,500,000",Casa en venta , Calle San Francisco 001 - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 298 m² cubiertos | 3 cuartos ,"15,800,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
+ 307 m² construidos | 5 recs. ,"11,000,000",Casa en venta , Providencia - 8 De Agosto - Benito Juárez - Distrito Federal 
+ 219 m² cubiertos | 3 cuartos ,"11,000,000",Casa en venta , Segunda Cerrada de Romero de Terreros - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 180 m² construidos | 2 recs. ,"6,295,000",Casa en venta ," 150, avenida 1ero de mayoAvenida 1ero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal "
+ 310 m² construidos | 4 recs. ,"7,800,000",Casa en venta , Napoleón 00 - Moderna - Benito Juárez - Distrito Federal 
+ 385 m² cubiertos | 7 cuartos ,"11,000,000",Casa en venta , Víctor Hugo - Albert - Benito Juárez - Distrito Federal 
+ 365 m² construidos | 3 recs. ,"12,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 362 m² cubiertos | 3 recs. ,"10,470,000",Casa en venta , Nicolás San Juan - Narvarte - Benito Juárez - Distrito Federal 
+ 330 m² construidos | 4 recs. ,"8,900,000",Casa en venta , Zempoala - Narvarte - Benito Juárez - Distrito Federal 
+ 412 m² construidos ,"11,900,000",Casa en venta , General Pedro Maria Anaya - Benito Juárez - Distrito Federal 
+ 257 m² construidos | 4 recs. ,"7,300,000",Casa en venta , SAN FELIPE 1 - Xoco - Benito Juárez - Distrito Federal 
+ 311 m² construidos | 5 recs. ,"16,000,000",Casa en venta , PESTALOZZI - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 361 m² construidos | 3 recs. ,"13,200,000",Casa en venta , Uvas 36 (Conjunto Uvas) Casa 5 - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 275 m² construidos | 4 recs. ,"10,400,000",Casa en venta , Fragonard - San Juan - Benito Juárez - Distrito Federal 
+ 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta , Amores - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 302 m² construidos | 5 recs. ,"18,950,000",Casa en venta , tajin - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 3 recs. ,"1,950,000",Casa en venta , Reembolsos 25 - Postal - Benito Juárez - Distrito Federal 
+ 215 m² construidos | 3 recs. ,"12,620,000",Casa en venta , Cerrada de Bartolache - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 396 m² construidos | 3 recs. ,"12,600,000",Casa en venta , Patricio Sanz 1230 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 247 m² construidos ,"13,400,000",Casa en venta , Martín Mendalde - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 195 m² construidos | 3 recs. ,"6,720,285",Casa en venta , Vértiz Narvarte - Benito Juárez - Distrito Federal 
+ 283 m² construidos | 3 recs. ,"12,750,000",Casa en venta , LA QUEMADA - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 266 m² construidos | 5 recs. ,"8,650,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
+ 246 m² construidos | 3 recs. ,"11,950,000",Casa en venta , Petén - Narvarte - Benito Juárez - Distrito Federal 
+ 247 m² construidos | 3 recs. ,"15,046,668",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 124 m² construidos | 3 recs. ,"2,700,000",Casa en venta , Castilla 150 - Alamos - Benito Juárez - Distrito Federal 
+ 1 m² construidos ,"15,500,000",Casa en venta , Manuel Lopez Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 230 m² construidos | 3 recs. ,"9,900,000",Casa en venta , Mier y Pesado 0001 - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 215 m² construidos | 2 recs. ,"9,600,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 381 m² construidos | 5 recs. ,"19,999,999",Casa en venta , Cadiz - Extremadura Insurgentes - Benito Juárez - Distrito Federal 
+ 530 m² construidos | 4 recs. ,"16,000,000",Casa en venta , Enrique Rebsamen - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 750 m² construidos | 5 recs. ,"27,000,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 414 m² construidos | 5 recs. ,"12,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
+ 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 263 m² construidos | 3 recs. ,"14,600,000",Casa en venta ," CHUPICUARO, VERTIZ NARVARTE, BENITO JUAREZ - Vértiz Narvarte - Benito Juárez - Distrito Federal "
+ 380 m² construidos | 4 recs. ,"11,500,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 124 m² construidos | 3 recs. ,"5,990,000",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
+ 365 m² construidos | 4 recs. ,"15,980,000",Casa en venta , Cerrada de José Ignacio de Bartolache 6 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 322 m² construidos | 3 recs. ,"11,900,000",Casa en venta , Adolfo Prieto 1332 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 320 m² construidos | 3 recs. ,"14,800,000",Casa en venta , Adolfo Prieto - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 553 m² construidos | 7 recs. ,"27,900,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 85 m² construidos | 2 recs. ,"1,600,000",Casa en venta , Av de las Américas 0 - Moderna - Benito Juárez - Distrito Federal 
+ 170 m² construidos | 3 recs. ,"7,800,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 373 m² construidos | 3 recs. ,"15,000,000",Casa en venta , pitagoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 700 m² construidos ,"39,000,000",Casa en venta , Adolfo Prieto - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 261 m² construidos | 3 recs. ,"10,800,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 280 m² construidos | 4 recs. ,"12,300,000",Casa en venta , La Morena - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 320 m² construidos | 4 recs. ,"14,800,000",Casa en venta , Cerrada Amores 28 - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 248 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Luis Carraci - Extremadura Insurgentes - Benito Juárez - Distrito Federal 
+ 286 m² construidos | 4 recs. ,"11,353,000",Casa en venta , Providencia 716 Casa 5 - Del Valle Norte - Benito Juárez - Distrito Federal 
+ 278 m² construidos | 3 recs. ,"8,890,000",Casa en venta , Calle 9 103 bis - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 251 m² construidos | 3 recs. ,"14,916,609",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 247 m² construidos | 3 recs. ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 227 m² construidos | 3 recs. ,"9,500,000",Casa en venta , Aniceto Ortega - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 330 m² construidos | 8 recs. ,"22,000,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 750 m² construidos | 7 recs. ,"20,000,000",Casa en venta , Avenida 3 00 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 512 m² construidos | 4 recs. ,"14,400,000",Casa en venta , López Cotilla 830 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 147 m² construidos | 3 recs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
+ 400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 228 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
+ 260 m² construidos | 3 recs. ,"11,675,000",Casa en venta , Juan Sánchez Azcona - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 500 m² construidos | 8 recs. ,"9,900,000",Casa en venta , Villa De Cortes - Benito Juárez - Distrito Federal 
+ 428 m² construidos | 4 recs. ,"13,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
+ 264 m² construidos | 6 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 80 - Portales - Benito Juárez - Distrito Federal 
+ 389 m² construidos | 4 recs. ,"15,000,000",Casa en venta , ANEXAGORAS 55 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 420 m² construidos | 5 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 268 m² construidos | 3 recs. ,"10,240,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
+ 290 m² construidos | 4 recs. ,"13,200,000",Casa en venta , Gral. Pedro María Anaya - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
+ 188 m² construidos | 3 recs. ,"7,450,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
+ 325 m² construidos | 3 recs. ,"11,900,000",Casa en venta , SALOME PIÑA 26 - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 230 m² construidos | 4 recs. ,"8,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 334 m² construidos | 5 recs. ,"12,800,000",Casa en venta , Mayorazgo de Luyando 3 - Xoco - Benito Juárez - Distrito Federal 
+ 210 m² construidos | 5 recs. ,"14,000,000",Casa en venta , Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 600 m² construidos | 5 recs. ,"40,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 250 m² construidos | 5 recs. ,"6,870,000",Casa en venta , tripoli 711 - Portales Sur - Benito Juárez - Distrito Federal 
+ 280 m² construidos | 5 recs. ,"7,500,000",Casa en venta , Martin Mendalde 1443 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 195 m² construidos | 3 recs. ,"6,950,000",Casa en venta , amores - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 260 m² construidos | 2 recs. ,"8,000,000",Casa en venta , Javier Sorondo - Villa De Cortes - Benito Juárez - Distrito Federal 
+ 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 249 m² construidos | 3 recs. ,"15,219,666",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 263 m² construidos | 4 recs. ,"2,570,000",Casa en venta , San Francisco 0 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 720 m² construidos | 20 recs. ,"39,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 204 m² construidos | 3 recs. ,"7,600,000",Casa en venta , Mariscal Sucre 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 137 m² construidos | 3 recs. ,"3,999,999",Casa en venta , Isabel la Católica 910 - Postal - Benito Juárez - Distrito Federal 
+ 300 m² construidos | 4 recs. ,"15,000,000",Casa en venta , Luz Saviñon - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 310 m² construidos | 3 recs. ,"22,500,000",Casa en venta , San Lorenzo - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 290 m² construidos | 4 recs. ,"12,650,000",Casa en venta , General Rincón - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
+ 267 m² construidos | 3 recs. ,"4,714,748",Casa en venta , Benito Juárez - Distrito Federal 
+ 510 m² construidos | 8 recs. ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
+ 290 m² construidos | 5 recs. ,"9,600,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 321 m² construidos | 3 recs. ,"16,900,000",Casa en venta , Aniceto Ortega 914 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 212 m² construidos | 3 recs. ,"8,700,000",Casa en venta , monrovia 0 - Portales Sur - Benito Juárez - Distrito Federal 
+ 280 m² construidos | 3 recs. ,"9,750,000",Casa en venta ," 1722, avenida CoyoacanAvenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal "
+ 194 m² construidos | 3 recs. ,"8,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
+ 365 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 365 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 1 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 353 m² construidos | 5 recs. ,"15,000,000",Casa en venta , Moras - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 157 m² construidos | 3 recs. ,"7,700,504",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
+ 188 m² construidos | 3 recs. ,"9,200,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 485 m² construidos | 4 recs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
+ 190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
+ 270 m² de terreno | 3 recs. ,"11,990,000",Casa en venta , Casa José Ignacio Bartolache - Benito Juárez - Distrito Federal 
+ 336 m² construidos | 4 recs. ,"11,700,000",Casa en venta , Magdalena - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 105 m² construidos | 3 recs. ,"3,871,000",Casa en venta , Blvd. Adolfo López Mateos 200 - Santa Maria Nonoalco - Benito Juárez - Distrito Federal 
+ 260 m² construidos | 5 recs. ,"12,600,000",Casa en venta , Providencia 912 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 157 m² construidos | 3 recs. ,"5,534,400",Casa en venta , OBRERO MUNDIAL 0 - Colonia Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 180 m² construidos | 3 recs. ,"7,729,000",Casa en venta , San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"12,950,000",Casa en venta , Acacias - Benito Juárez - Distrito Federal 
+ 247 m² construidos | 4 recs. ,"9,600,000",Casa en venta , San Borja 514 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 199 m² construidos | 3 recs. ,"8,885,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
+ 240 m² construidos | 3 recs. ,"1,950,000",Casa en venta ," Reembolsos , Col. Posta - Benito Juárez - Distrito Federal "
+ 240 m² construidos | 3 recs. ,"10,000,000",Casa en venta , Ohio null - Nápoles - Benito Juárez - Distrito Federal 
+ 226 m² construidos | 3 recs. ,"8,000,000",Casa en venta , Manuel Lopez Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 250 m² construidos | 3 recs. ,"1,542,500",Casa en venta , Benito Juárez - Distrito Federal 
+ 345 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 218 m² construidos | 3 recs. ,"11,000,000",Casa en venta , Nápoles - Benito Juárez - Distrito Federal 
+ 182 m² construidos | 3 recs. ,"12,749,100",Casa en venta , Juárez - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 199 m² construidos | 3 recs. ,"8,240,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
+ 76 m² construidos | 2 recs. ,"4,250,000",Casa en venta , Cuauhtémoc - Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"2,000,000",Casa en venta , Maria Hernandez Zarco - Benito Juárez - Distrito Federal 
+ 209 m² construidos | 3 recs. ,"10,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
+ 190 m² construidos | 3 recs. ,"3,500,000",Casa en venta , Benito Juárez - Distrito Federal 
+ 350 m² construidos | 4 recs. ,"11,500,000",Casa en venta , Patricio Sanz - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 372 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 330 m² construidos | 4 recs. ,"16,900,000",Casa en venta , Aniceto Ortega 734 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 167 m² construidos | 3 recs. ,"5,900,000",Casa en venta , LA CORUÑA - Alamos - Benito Juárez - Distrito Federal 
+ 220 m² construidos | 3 recs. ,"4,500,000",Casa en venta , Mercaderes 104 - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 98 m² construidos | 3 recs. ,"1,348,089",Casa en venta , Benito Juárez - Distrito Federal 
+ 272 m² construidos | 4 recs. ,"11,950,000",Casa en venta , Kansas - Nápoles - Benito Juárez - Distrito Federal 
+ 553 m² construidos | 7 recs. ,"27,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 178 m² construidos | 3 recs. ,"6,900,000",Casa en venta , Eugenia - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 332 m² construidos | 3 recs. ,"27,500,000",Casa en venta , Lorenzo Rodríguez 1 - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 667 m² construidos | 5 recs. ,"3,150,000",Casa en venta , AMADO NERVO 20 - Moderna - Benito Juárez - Distrito Federal 
+ 300 m² construidos | 4 recs. ,"14,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 381 m² construidos | 3 recs. ,"10,400,000",Casa en venta , Ixcateopan - Vértiz Narvarte - Benito Juárez - Distrito Federal 
+ 230 m² construidos ,"15,000,000",Casa en venta , Oregon - Benito Juárez - Distrito Federal 
+ 382 m² construidos | 3 recs. ,"16,000,000",Casa en venta , Mayorazgo de Luyando - Xoco - Benito Juárez - Distrito Federal 
+ 250 m² construidos | 3 recs. ,"13,350,000",Casa en venta , Acacias - Benito Juárez - Distrito Federal 
+ 316 m² construidos | 5 recs. ,"12,500,000",Casa en venta , Pablo Ucello - Ciudad De Los Deportes - Benito Juárez - Distrito Federal 
+ 280 m² construidos | 4 recs. ,"10,900,000",Casa en venta , Privada Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 228 m² construidos | 3 recs. ,"13,982,500",Casa en venta , DALLAS - Nápoles - Benito Juárez - Distrito Federal 
+ 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 424 m² construidos | 5 recs. ,"10,000,000",Casa en venta , uxmal 225 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 302 m² construidos | 3 recs. ,"10,900,000",Casa en venta , 1a. Cerrada de Xola - Benito Juárez - Distrito Federal 
+ 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 297 m² construidos | 3 recs. ,"9,800,000",Casa en venta , Isabel La Católica 908 - Postal - Benito Juárez - Distrito Federal 
+ 323 m² construidos | 3 recs. ,"2,400,000",Casa en venta , Rafael Martínez 315 - San Simón Ticumac - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"8,490,000",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 512 m² construidos | 4 habs. ,"14,400,000",Casa en venta , López Cotilla 830 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 147 m² cubiertos | 3 habs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
+ 400 m² cubiertos | 3 habs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 228 m² cubiertos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
+ 260 m² cubiertos | 3 habs. ,"11,675,000",Casa en venta , Juan Sánchez Azcona - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 500 m² construidos | 8 habs. ,"9,900,000",Casa en venta , Villa De Cortes - Benito Juárez - Distrito Federal 
+ 428 m² construidos | 4 recs. ,"13,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
+ 264 m² construidos | 6 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 80 - Portales - Benito Juárez - Distrito Federal 
+ 389 m² construidos | 4 recs. ,"15,000,000",Casa en venta , ANEXAGORAS 55 - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 420 m² construidos | 5 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 268 m² cubiertos | 3 habs. ,"10,240,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
+ 290 m² cubiertos | 4 habs. ,"13,200,000",Casa en venta , Gral. Pedro María Anaya - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
+ 188 m² cubiertos | 3 habs. ,"7,450,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
+ 325 m² cubiertos | 3 habs. ,"11,900,000",Casa en venta , SALOME PIÑA 26 - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 230 m² construidos | 4 recs. ,"8,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 334 m² cubiertos | 5 habs. ,"12,800,000",Casa en venta , Mayorazgo de Luyando 3 - Xoco - Benito Juárez - Distrito Federal 
+ 210 m² construidos | 5 recs. ,"14,000,000",Casa en venta , Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 600 m² cubiertos | 5 habs. ,"40,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 250 m² cubiertos | 5 habs. ,"6,870,000",Casa en venta , tripoli 711 - Portales Sur - Benito Juárez - Distrito Federal 
+ 280 m² cubiertos | 5 recs. ,"7,500,000",Casa en venta , Martin Mendalde 1443 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 195 m² construidos | 3 habs. ,"6,950,000",Casa en venta , amores - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 260 m² cubiertos | 2 habs. ,"8,000,000",Casa en venta , Javier Sorondo - Villa De Cortes - Benito Juárez - Distrito Federal 
+ 235 m² cubiertos | 3 habs. ,"14,268,042",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 249 m² construidos | 3 habs. ,"15,219,666",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
+ 263 m² cubiertos | 4 recs. ,"2,570,000",Casa en venta , San Francisco 0 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 720 m² cubiertos | 20 habs. ,"39,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 204 m² construidos | 3 recs. ,"7,600,000",Casa en venta , Mariscal Sucre 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
+ 137 m² construidos | 3 recs. ,"3,999,999",Casa en venta , Isabel la Católica 910 - Postal - Benito Juárez - Distrito Federal 
+ 300 m² construidos | 4 recs. ,"15,000,000",Casa en venta , Luz Saviñon - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 310 m² construidos | 3 recs. ,"22,500,000",Casa en venta , San Lorenzo - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 290 m² cubiertos | 4 habs. ,"12,650,000",Casa en venta , General Rincón - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
+ 267 m² construidos | 3 habs. ,"4,714,748",Casa en venta , Benito Juárez - Distrito Federal 
+ 510 m² cubiertos | 8 habs. ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
+ 290 m² construidos | 5 habs. ,"9,600,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
+ 321 m² cubiertos | 3 recs. ,"16,900,000",Casa en venta , Aniceto Ortega 914 - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 212 m² cubiertos | 3 habs. ,"8,700,000",Casa en venta , monrovia 0 - Portales Sur - Benito Juárez - Distrito Federal 
+ 280 m² construidos | 3 recs. ,"9,750,000",Casa en venta ," 1722, avenida CoyoacanAvenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal "
+ 194 m² cubiertos | 3 habs. ,"8,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
+ 365 m² construidos | 3 habs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 365 m² cubiertos | 3 habs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 1 m² construidos | 3 habs. ,"12,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 353 m² cubiertos | 5 habs. ,"15,000,000",Casa en venta , Moras - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 157 m² cubiertos | 3 habs. ,"7,700,504",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
+ 188 m² cubiertos | 3 recs. ,"9,200,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 264 m² cubiertos | 3 habs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
+ 485 m² cubiertos | 4 habs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
+ 190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
+ 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
+ 301 m² construidos | 4 recs. ,"11,800,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 436 m² construidos | 7 recs. ,"16,200,000",Casa en venta , Obrero Mundial 400 - Piedad Narvarte - Benito Juárez - Distrito Federal 
+ 224 m² construidos | 3 recs. ,"10,200,000",Casa en venta , Rodrigo Cifuentes - San José Insurgentes - Benito Juárez - Distrito Federal 
+ 372 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
+ 258 m² construidos | 3 recs. ,"8,550,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
  240 m² construidos | 3 recs. ,"4,950,000",Casa en venta , Bertha 00 - Nativitas - Benito Juárez - Distrito Federal 
  400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
  215 m² construidos | 4 recs. ,"8,300,000",Casa en venta , Zempoala - Narvarte Oriente - Benito Juárez - Distrito Federal 
  326 m² construidos ,"10,900,000",Casa en venta , Av. Eugenia - Colonia Del Valle - Benito Juárez - Distrito Federal 
  770 m² construidos | 5 recs. ,"33,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² cubiertos | 4 cuartos ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
+ 250 m² construidos | 4 recs. ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
  293 m² construidos | 4 recs. ,"9,900,000",Casa en venta , Uxmal 364 - Narvarte Poniente - Benito Juárez - Distrito Federal 
  385 m² construidos ,"27,000,000",Casa en venta , Matías Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
  219 m² construidos | 3 recs. ,"12,587,000",Casa en venta , Providencia - Del Valle Centro - Benito Juárez - Distrito Federal 
  247 m² construidos | 4 recs. ,"8,300,000",Casa en venta , Indiana 78 - Nápoles - Benito Juárez - Distrito Federal 
  200 m² construidos | 3 recs. ,"1,382,000",Casa en venta , Benito Juárez - Distrito Federal 
  311 m² construidos | 3 recs. ,"13,500,000",Casa en venta , Mayorazgo de Luyando - Del Valle Centro - Benito Juárez - Distrito Federal 
- 200 m² cubiertos | 3 cuartos ,"3,000,000",Casa en venta , Calle Balboa 740 - Portales Sur - Benito Juárez - Distrito Federal 
+ 200 m² construidos | 3 recs. ,"3,000,000",Casa en venta , Calle Balboa 740 - Portales Sur - Benito Juárez - Distrito Federal 
  300 m² construidos | 5 recs. ,"9,500,000",Casa en venta , Matias Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
  259 m² construidos | 4 recs. ,"9,800,000",Casa en venta , Calle 5 16 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
  191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , Hilario Perez de Leon 67 - Américas Unidas - Benito Juárez - Distrito Federal 
@@ -169,7 +506,7 @@ attributes,price,status,adress
  240 m² construidos | 4 recs. ,"5,850,000",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
  188 m² construidos | 3 recs. ,"6,950,000",Casa en venta , ANAXAGORAS 0 - Narvarte Poniente - Benito Juárez - Distrito Federal 
  235 m² construidos | 3 recs. ,"15,216,609",Casa en venta , Amores - Del Valle Sur - Benito Juárez - Distrito Federal 
- 243 m² cubiertos | 4 recs. ,"9,800,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
+ 243 m² construidos | 4 recs. ,"9,800,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
  191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , hilario Perez de Leon - Narvarte - Benito Juárez - Distrito Federal 
  290 m² construidos | 4 recs. ,"9,980,000",Casa en venta , Narvarte996 - Narvarte Oriente - Benito Juárez - Distrito Federal 
  240 m² construidos | 4 recs. ,"8,800,000",Casa en venta , Mier y Pesado - Del Valle Norte - Benito Juárez - Distrito Federal 
@@ -181,7 +518,7 @@ attributes,price,status,adress
  250 m² construidos | 4 recs. ,"8,000,000",Casa en venta , Mitla 397 - Colonia Narvarte Oriente - Benito Juárez - Distrito Federal 
  278 m² construidos | 4 recs. ,"12,000,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
  200 m² construidos | 3 recs. ,"3,000,000",Casa en venta , Calle Balboa 724 - Portales Sur - Benito Juárez - Distrito Federal 
- 265 m² cubiertos | 4 cuartos ,"8,000,000",Casa en venta , Cuicuilco - Letran Valle - Benito Juárez - Distrito Federal 
+ 265 m² construidos | 4 recs. ,"8,000,000",Casa en venta , Cuicuilco - Letran Valle - Benito Juárez - Distrito Federal 
  448 m² construidos | 4 recs. ,"15,450,000",Casa en venta , Peten - Narvarte - Benito Juárez - Distrito Federal 
  252 m² construidos | 4 recs. ,"9,980,000",Casa en venta , Miguel Laurent - Letran Valle - Benito Juárez - Distrito Federal 
  400 m² construidos | 3 recs. ,"13,400,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
@@ -336,102 +673,6 @@ attributes,price,status,adress
  750 m² construidos | 7 recs. ,"20,000,000",Casa en venta , Avenida 3 00 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
  512 m² construidos | 4 recs. ,"14,400,000",Casa en venta , López Cotilla 830 - Del Valle Centro - Benito Juárez - Distrito Federal 
  147 m² construidos | 3 recs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
- 400 m² cubiertos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 228 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
- 260 m² construidos | 3 recs. ,"11,675,000",Casa en venta , Juan Sánchez Azcona - Del Valle Centro - Benito Juárez - Distrito Federal 
- 500 m² construidos | 8 recs. ,"9,900,000",Casa en venta , Villa De Cortes - Benito Juárez - Distrito Federal 
- 428 m² construidos | 4 recs. ,"13,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
- 264 m² construidos | 6 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 80 - Portales - Benito Juárez - Distrito Federal 
- 389 m² cubiertos | 4 cuartos ,"15,000,000",Casa en venta , ANEXAGORAS 55 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 420 m² construidos | 5 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 268 m² construidos | 3 recs. ,"10,240,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
- 290 m² construidos | 4 recs. ,"13,200,000",Casa en venta , Gral. Pedro María Anaya - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
- 188 m² cubiertos | 3 habs. ,"7,450,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
- 325 m² cubiertos | 3 recs. ,"11,900,000",Casa en venta , SALOME PIÑA 26 - San José Insurgentes - Benito Juárez - Distrito Federal 
- 230 m² construidos | 4 recs. ,"8,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 334 m² construidos | 5 recs. ,"12,800,000",Casa en venta , Mayorazgo de Luyando 3 - Xoco - Benito Juárez - Distrito Federal 
- 210 m² construidos | 5 recs. ,"14,000,000",Casa en venta , Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
- 600 m² construidos | 5 recs. ,"40,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² construidos | 5 recs. ,"6,870,000",Casa en venta , tripoli 711 - Portales Sur - Benito Juárez - Distrito Federal 
- 280 m² construidos | 5 recs. ,"7,500,000",Casa en venta , Martin Mendalde 1443 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 195 m² cubiertos | 3 cuartos ,"6,950,000",Casa en venta , amores - Del Valle Centro - Benito Juárez - Distrito Federal 
- 260 m² construidos | 2 recs. ,"8,000,000",Casa en venta , Javier Sorondo - Villa De Cortes - Benito Juárez - Distrito Federal 
- 235 m² construidos | 3 habs. ,"14,268,042",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 249 m² construidos | 3 recs. ,"15,219,666",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 263 m² construidos | 4 recs. ,"2,570,000",Casa en venta , San Francisco 0 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 720 m² construidos | 20 recs. ,"39,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 204 m² construidos | 3 recs. ,"7,600,000",Casa en venta , Mariscal Sucre 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 137 m² construidos | 3 recs. ,"3,999,999",Casa en venta , Isabel la Católica 910 - Postal - Benito Juárez - Distrito Federal 
- 300 m² construidos | 4 recs. ,"15,000,000",Casa en venta , Luz Saviñon - Del Valle Centro - Benito Juárez - Distrito Federal 
- 310 m² cubiertos | 3 cuartos ,"22,500,000",Casa en venta , San Lorenzo - Del Valle Centro - Benito Juárez - Distrito Federal 
- 290 m² construidos | 4 recs. ,"12,650,000",Casa en venta , General Rincón - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
- 267 m² construidos | 3 recs. ,"4,714,748",Casa en venta , Benito Juárez - Distrito Federal 
- 510 m² cubiertos | 8 habs. ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
- 290 m² construidos | 5 recs. ,"9,600,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
- 321 m² construidos | 3 recs. ,"16,900,000",Casa en venta , Aniceto Ortega 914 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 212 m² construidos | 3 recs. ,"8,700,000",Casa en venta , monrovia 0 - Portales Sur - Benito Juárez - Distrito Federal 
- 280 m² construidos | 3 recs. ,"9,750,000",Casa en venta ," 1722, avenida CoyoacanAvenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal "
- 194 m² construidos | 3 recs. ,"8,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
- 365 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 365 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 1 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 353 m² construidos | 5 recs. ,"15,000,000",Casa en venta , Moras - Del Valle Sur - Benito Juárez - Distrito Federal 
- 157 m² construidos | 3 recs. ,"7,700,504",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"9,200,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 485 m² construidos | 4 recs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
- 190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
- 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
- 270 m² totales | 3 recs. ,"11,990,000",Casa en venta , Casa José Ignacio Bartolache - Benito Juárez - Distrito Federal 
- 336 m² construidos | 4 recs. ,"11,700,000",Casa en venta , Magdalena - Del Valle Centro - Benito Juárez - Distrito Federal 
- 105 m² construidos | 3 habs. ,"3,871,000",Casa en venta , Blvd. Adolfo López Mateos 200 - Santa Maria Nonoalco - Benito Juárez - Distrito Federal 
- 260 m² cubiertos | 5 habs. ,"12,600,000",Casa en venta , Providencia 912 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 157 m² cubiertos | 3 habs. ,"5,534,400",Casa en venta , OBRERO MUNDIAL 0 - Colonia Narvarte Oriente - Benito Juárez - Distrito Federal 
- 180 m² cubiertos | 3 habs. ,"7,729,000",Casa en venta , San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 200 m² cubiertos | 3 habs. ,"12,950,000",Casa en venta , Acacias - Benito Juárez - Distrito Federal 
- 247 m² cubiertos | 4 habs. ,"9,600,000",Casa en venta , San Borja 514 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 199 m² cubiertos | 3 recs. ,"8,885,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
- 240 m² construidos | 3 recs. ,"1,950,000",Casa en venta ," Reembolsos , Col. Posta - Benito Juárez - Distrito Federal "
- 240 m² construidos | 3 recs. ,"10,000,000",Casa en venta , Ohio null - Nápoles - Benito Juárez - Distrito Federal 
- 226 m² construidos | 3 recs. ,"8,000,000",Casa en venta , Manuel Lopez Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² construidos | 3 habs. ,"1,542,500",Casa en venta , Benito Juárez - Distrito Federal 
- 345 m² construidos | 3 habs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 218 m² cubiertos | 3 habs. ,"11,000,000",Casa en venta , Nápoles - Benito Juárez - Distrito Federal 
- 182 m² cubiertos | 3 habs. ,"12,749,100",Casa en venta , Juárez - San José Insurgentes - Benito Juárez - Distrito Federal 
- 199 m² cubiertos | 3 habs. ,"8,240,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
- 76 m² cubiertos | 2 habs. ,"4,250,000",Casa en venta , Cuauhtémoc - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 200 m² cubiertos | 3 habs. ,"2,000,000",Casa en venta , Maria Hernandez Zarco - Benito Juárez - Distrito Federal 
- 209 m² construidos | 3 recs. ,"10,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
- 190 m² construidos | 3 recs. ,"3,500,000",Casa en venta , Benito Juárez - Distrito Federal 
- 350 m² construidos | 4 recs. ,"11,500,000",Casa en venta , Patricio Sanz - Del Valle Sur - Benito Juárez - Distrito Federal 
- 372 m² construidos | 3 habs. ,"14,500,000",Casa en venta , Del Valle Centro - Del Valle Centro - Benito Juárez - Distrito Federal 
- 330 m² cubiertos | 4 habs. ,"16,900,000",Casa en venta , Aniceto Ortega 734 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 167 m² cubiertos | 3 habs. ,"5,900,000",Casa en venta , LA CORUÑA - Alamos - Benito Juárez - Distrito Federal 
- 220 m² cubiertos | 3 habs. ,"4,500,000",Casa en venta , Mercaderes 104 - San José Insurgentes - Benito Juárez - Distrito Federal 
- 98 m² cubiertos | 3 habs. ,"1,348,089",Casa en venta , Benito Juárez - Distrito Federal 
- 272 m² cubiertos | 4 habs. ,"11,950,000",Casa en venta , Kansas - Nápoles - Benito Juárez - Distrito Federal 
- 553 m² cubiertos | 7 recs. ,"27,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 178 m² construidos | 3 recs. ,"6,900,000",Casa en venta , Eugenia - Del Valle Centro - Benito Juárez - Distrito Federal 
- 332 m² construidos | 3 recs. ,"27,500,000",Casa en venta , Lorenzo Rodríguez 1 - San José Insurgentes - Benito Juárez - Distrito Federal 
- 667 m² construidos | 5 recs. ,"3,150,000",Casa en venta , AMADO NERVO 20 - Moderna - Benito Juárez - Distrito Federal 
- 300 m² construidos | 4 habs. ,"14,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 381 m² cubiertos | 3 habs. ,"10,400,000",Casa en venta , Ixcateopan - Vértiz Narvarte - Benito Juárez - Distrito Federal 
- 230 m² construidos ,"15,000,000",Casa en venta , Oregon - Benito Juárez - Distrito Federal 
- 382 m² construidos | 3 habs. ,"16,000,000",Casa en venta , Mayorazgo de Luyando - Xoco - Benito Juárez - Distrito Federal 
- 250 m² cubiertos | 3 recs. ,"13,350,000",Casa en venta , Acacias - Benito Juárez - Distrito Federal 
- 316 m² cubiertos | 5 recs. ,"12,500,000",Casa en venta , Pablo Ucello - Ciudad De Los Deportes - Benito Juárez - Distrito Federal 
- 280 m² cubiertos | 4 recs. ,"10,900,000",Casa en venta , Privada Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
- 228 m² construidos | 3 recs. ,"13,982,500",Casa en venta , DALLAS - Nápoles - Benito Juárez - Distrito Federal 
- 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
- 424 m² construidos | 5 habs. ,"10,000,000",Casa en venta , uxmal 225 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 302 m² cubiertos | 3 habs. ,"10,900,000",Casa en venta , 1a. Cerrada de Xola - Benito Juárez - Distrito Federal 
- 235 m² construidos | 3 habs. ,"14,268,042",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
- 297 m² construidos | 3 habs. ,"9,800,000",Casa en venta , Isabel La Católica 908 - Postal - Benito Juárez - Distrito Federal 
- 323 m² construidos | 3 recs. ,"2,400,000",Casa en venta , Rafael Martínez 315 - San Simón Ticumac - Benito Juárez - Distrito Federal 
- 200 m² cubiertos | 3 recs. ,"8,490,000",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
- 1 m² cubiertos | 5 recs. ,"11,500,000",Casa en venta , Cerrada de Tajín - Acacias - Benito Juárez - Distrito Federal 
- 147 m² construidos | 3 recs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
  400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
  228 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
  260 m² construidos | 3 recs. ,"11,675,000",Casa en venta , Juan Sánchez Azcona - Del Valle Centro - Benito Juárez - Distrito Federal 
@@ -478,198 +719,6 @@ attributes,price,status,adress
  485 m² construidos | 4 recs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
  190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
  150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
- 270 m² de terreno | 3 recs. ,"11,990,000",Casa en venta , Casa José Ignacio Bartolache - Benito Juárez - Distrito Federal 
- 436 m² construidos | 7 recs. ,"16,200,000",Casa en venta , Obrero Mundial 400 - Piedad Narvarte - Benito Juárez - Distrito Federal 
- 224 m² construidos | 3 recs. ,"10,200,000",Casa en venta , Rodrigo Cifuentes - San José Insurgentes - Benito Juárez - Distrito Federal 
- 372 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 258 m² construidos | 3 recs. ,"8,550,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 240 m² construidos | 3 recs. ,"4,950,000",Casa en venta , Bertha 00 - Nativitas - Benito Juárez - Distrito Federal 
- 400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 215 m² construidos | 4 recs. ,"8,300,000",Casa en venta , Zempoala - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 326 m² construidos ,"10,900,000",Casa en venta , Av. Eugenia - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 770 m² construidos | 5 recs. ,"33,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² construidos | 4 recs. ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
- 293 m² construidos | 4 recs. ,"9,900,000",Casa en venta , Uxmal 364 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 385 m² construidos ,"27,000,000",Casa en venta , Matías Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
- 219 m² construidos | 3 recs. ,"12,587,000",Casa en venta , Providencia - Del Valle Centro - Benito Juárez - Distrito Federal 
- 247 m² construidos | 4 recs. ,"8,300,000",Casa en venta , Indiana 78 - Nápoles - Benito Juárez - Distrito Federal 
- 200 m² construidos | 3 recs. ,"1,382,000",Casa en venta , Benito Juárez - Distrito Federal 
- 311 m² construidos | 3 recs. ,"13,500,000",Casa en venta , Mayorazgo de Luyando - Del Valle Centro - Benito Juárez - Distrito Federal 
- 200 m² construidos | 3 recs. ,"3,000,000",Casa en venta , Calle Balboa 740 - Portales Sur - Benito Juárez - Distrito Federal 
- 300 m² construidos | 5 recs. ,"9,500,000",Casa en venta , Matias Romero - Del Valle Centro - Benito Juárez - Distrito Federal 
- 259 m² construidos | 4 recs. ,"9,800,000",Casa en venta , Calle 5 16 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , Hilario Perez de Leon 67 - Américas Unidas - Benito Juárez - Distrito Federal 
- 311 m² construidos | 5 recs. ,"15,500,000",Casa en venta , Pestalozii - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 290 m² construidos | 3 recs. ,"14,000,000",Casa en venta , Súper Casa en Venta en Letran Valle. La Mejor - Letran Valle - Benito Juárez - Distrito Federal 
- 276 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
- 240 m² construidos | 4 recs. ,"5,850,000",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"6,950,000",Casa en venta , ANAXAGORAS 0 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 235 m² construidos | 3 recs. ,"15,216,609",Casa en venta , Amores - Del Valle Sur - Benito Juárez - Distrito Federal 
- 243 m² construidos | 4 recs. ,"9,800,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 191 m² construidos | 4 recs. ,"5,550,000",Casa en venta , hilario Perez de Leon - Narvarte - Benito Juárez - Distrito Federal 
- 290 m² construidos | 4 recs. ,"9,980,000",Casa en venta , Narvarte996 - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 240 m² construidos | 4 recs. ,"8,800,000",Casa en venta , Mier y Pesado - Del Valle Norte - Benito Juárez - Distrito Federal 
- 364 m² construidos | 4 recs. ,"16,000,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 200 m² construidos | 3 recs. ,"11,000,000",Casa en venta , FELIX PARRA 176 - San José Insurgentes - Benito Juárez - Distrito Federal 
- 301 m² construidos | 3 recs. ,"10,900,000",Casa en venta , CERRADA DE XOLA 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 307 m² construidos | 5 recs. ,"10,700,000",Casa en venta , Empresa - San Juan - Benito Juárez - Distrito Federal 
- 217 m² construidos | 3 recs. ,"10,350,000",Casa en venta , Cda. San Borja 0001 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² construidos | 4 recs. ,"8,000,000",Casa en venta , Mitla 397 - Colonia Narvarte Oriente - Benito Juárez - Distrito Federal 
- 278 m² construidos | 4 recs. ,"12,000,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 200 m² construidos | 3 recs. ,"3,000,000",Casa en venta , Calle Balboa 724 - Portales Sur - Benito Juárez - Distrito Federal 
- 265 m² construidos | 4 recs. ,"8,000,000",Casa en venta , Cuicuilco - Letran Valle - Benito Juárez - Distrito Federal 
- 448 m² construidos | 4 recs. ,"15,450,000",Casa en venta , Peten - Narvarte - Benito Juárez - Distrito Federal 
- 252 m² construidos | 4 recs. ,"9,980,000",Casa en venta , Miguel Laurent - Letran Valle - Benito Juárez - Distrito Federal 
- 400 m² construidos | 3 recs. ,"13,400,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 190 m² construidos | 3 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 78 - Portales - Benito Juárez - Distrito Federal 
- 373 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Uvas 36 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 386 m² construidos | 5 recs. ,"5,018,530",Casa en venta , Benito Juárez - Distrito Federal 
- 315 m² construidos | 3 recs. ,"9,650,000",Casa en venta , Ixcateopan - Letran Valle - Benito Juárez - Distrito Federal 
- 244 m² construidos | 3 recs. ,"8,400,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 450 m² construidos | 3 recs. ,"15,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 247 m² construidos | 3 recs. ,"15,046,668",Casa en venta , Amores - Del Valle Sur - Benito Juárez - Distrito Federal 
- 350 m² construidos | 3 recs. ,"13,950,000",Casa en venta , Colorado - Nápoles - Benito Juárez - Distrito Federal 
- 167 m² construidos | 3 recs. ,"6,700,000",Casa en venta , Av Primero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 586 m² construidos | 5 recs. ,"43,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 213 m² construidos | 3 recs. ,"6,500,000",Casa en venta , Cadiz - Alamos - Benito Juárez - Distrito Federal 
- 348 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Patricio Sanz - Del Valle Norte - Benito Juárez - Distrito Federal 
- 334 m² construidos | 3 recs. ,"15,200,000",Casa en venta , RETORNO DE MAYORAZGO DE LUYANDO 43 - Xoco - Benito Juárez - Distrito Federal 
- 276 m² construidos | 4 recs. ,"5,500,000",Casa en venta , Portales Norte - Benito Juárez - Distrito Federal 
- 196 m² construidos | 3 recs. ,"9,814,544",Casa en venta , Mariscal Sucre - Del Valle Centro - Benito Juárez - Distrito Federal 
- 194 m² construidos | 5 recs. ,"6,700,000",Casa en venta , Presidentes 34 - Portales Oriente - Benito Juárez - Distrito Federal 
- 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
- 183 m² construidos | 4 recs. ,"9,100,000",Casa en venta , Avenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"7,150,000",Casa en venta , ANAXAGORAS 00 - Narvarte - Benito Juárez - Distrito Federal 
- 460 m² construidos | 4 recs. ,"16,500,000",Casa en venta , Enrique Rebsamen - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Calle Rumania 923 - Portales Sur - Benito Juárez - Distrito Federal 
- 219 m² construidos | 2 recs. ,"6,700,000",Casa en venta , VISTA HERMOSA - General Pedro Maria Anaya - Benito Juárez - Distrito Federal 
- 700 m² construidos | 4 recs. ,"17,480,000",Casa en venta , Georgia 20 - Nápoles - Benito Juárez - Distrito Federal 
- 129 m² construidos | 3 recs. ,"8,400,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
- 190 m² construidos | 3 recs. ,"7,450,000",Casa en venta , AMORES - Del Valle Centro - Benito Juárez - Distrito Federal 
- 96 m² construidos | 2 recs. ,"4,890,000",Casa en venta , Rochester - Nápoles - Benito Juárez - Distrito Federal 
- 500 m² construidos | 4 recs. ,"17,000,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
- 490 m² construidos | 7 recs. ,"16,500,000",Casa en venta , PALENQUE 413 - Narvarte - Benito Juárez - Distrito Federal 
- 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 392 m² construidos | 2 recs. ,"11,900,000",Casa en venta , Los Juárez - San José Insurgentes - Benito Juárez - Distrito Federal 
- 488 m² construidos | 3 recs. ,"12,798,745",Casa en venta , Av. tres - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 325 m² construidos | 5 recs. ,"6,700,000",Casa en venta , RUBEN M CAMPOS 2811 - Villa De Cortes - Benito Juárez - Distrito Federal 
- 345 m² construidos | 3 recs. ,"9,000,000",Casa en venta , Ixcateopan 201 - Letran Valle - Benito Juárez - Distrito Federal 
- 170 m² construidos | 3 recs. ,"7,800,000",Casa en venta , Amores 1 - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 245 m² construidos | 3 recs. ,"13,209,000",Casa en venta , SAN Lorenzo - Benito Juárez - Distrito Federal 
- 403 m² construidos | 3 recs. ,"18,500,000",Casa en venta , Insurgentes Mixcoac - Benito Juárez - Distrito Federal 
- 318 m² construidos | 5 recs. ,"12,800,000",Casa en venta , Providencia - Del Valle Centro - Benito Juárez - Distrito Federal 
- 236 m² construidos | 4 recs. ,"7,500,000",Casa en venta , La Quemada 0001 - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 230 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Agustin González de Cosío - Del Valle Centro - Benito Juárez - Distrito Federal 
- 323 m² construidos | 4 recs. ,"7,600,000",Casa en venta , Alhambra - Portales Sur - Benito Juárez - Distrito Federal 
- 240 m² construidos | 4 recs. ,"6,000,000",Casa en venta , LUIS BRAILE 250 - Independencia - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"7,450,000",Casa en venta , Av. Amores - Del Valle Norte - Benito Juárez - Distrito Federal 
- 81 m² construidos | 2 recs. ,"4,100,000",Casa en venta , Eje 8 Sur - Xoco - Benito Juárez - Distrito Federal 
- 160 m² construidos | 3 recs. ,"4,000,000",Casa en venta , Callejón Santísima 12 - Santa Cruz Atoyac - Benito Juárez - Distrito Federal 
- 133 m² construidos | 3 recs. ,"7,698,978",Casa en venta , Uxmal - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 540 m² construidos | 6 recs. ,"35,000,000",Casa en venta , ADOLFO PRIETO - Del Valle Sur - Benito Juárez - Distrito Federal 
- 148 m² construidos | 2 recs. ,"6,500,000",Casa en venta , Av Primero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 174 m² construidos | 2 recs. ,"6,200,000",Casa en venta , Aragón - Alamos - Benito Juárez - Distrito Federal 
- 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
- 317 m² construidos | 3 recs. ,"9,800,000",Casa en venta , IXCATEOPAN 1 - Letran Valle - Benito Juárez - Distrito Federal 
- 403 m² construidos | 4 recs. ,"18,500,000",Casa en venta , Malaga 0 - Mixcoac - Benito Juárez - Distrito Federal 
- 368 m² construidos | 5 recs. ,"10,000,000",Casa en venta , San Pedro de los Pinos - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 192 m² construidos | 2 recs. ,"8,600,000",Casa en venta , Miguel Serrano 13 - 4 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 296 m² construidos | 5 recs. ,"11,990,000",Casa en venta , EMPRESA 1 - Insurgentes Mixcoac - Benito Juárez - Distrito Federal 
- 306 m² construidos ,"11,800,000",Casa en venta , Mitla 0001 - Narvarte - Benito Juárez - Distrito Federal 
- 400 m² construidos | 5 recs. ,"19,700,000",Casa en venta , PETEN - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 370 m² construidos | 3 recs. ,"16,500,000",Casa en venta , CERRADA PERPETUA - San José Insurgentes - Benito Juárez - Distrito Federal 
- 238 m² construidos | 3 recs. ,"10,400,000",Casa en venta , Fragonard 48 - San Juan - Benito Juárez - Distrito Federal 
- 900 m² construidos | 5 recs. ,"11,000,000",Casa en venta , Canarias 103 - Portales - Benito Juárez - Distrito Federal 
- 166 m² construidos | 3 recs. ,"6,000,000",Casa en venta , Calle Gabriel Mancera 46 - Del Valle Norte - Benito Juárez - Distrito Federal 
- 184 m² construidos | 3 recs. ,"7,550,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
- 662 m² construidos ,"34,000,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
- 233 m² construidos | 3 recs. ,"7,300,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
- 240 m² construidos | 3 recs. ,"8,300,000",Casa en venta , Aragón 269 - Alamos - Benito Juárez - Distrito Federal 
- 450 m² construidos | 6 recs. ,"12,600,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 320 m² construidos | 4 recs. ,"9,000,000",Casa en venta , Centenario 3 - Santa Cruz Atoyac - Benito Juárez - Distrito Federal 
- 470 m² construidos ,"31,000,000",Casa en venta , Calle 12 0001 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 553 m² construidos | 7 recs. ,"27,900,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
- 315 m² construidos | 4 recs. ,"13,500,000",Casa en venta , Nicolas San Juan 1450 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 510 m² construidos | 7 recs. ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
- 210 m² construidos | 3 recs. ,"2,320,000",Casa en venta , Isabel La Catolica 0 - Alamos - Benito Juárez - Distrito Federal 
- 580 m² construidos | 3 recs. ,"33,000,000",Casa en venta , 1CDA SAN BORJA - Del Valle Centro - Benito Juárez - Distrito Federal 
- 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
- 216 m² construidos | 3 recs. ,"9,200,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 480 m² construidos | 6 recs. ,"20,000,000",Casa en venta , ARKANSAS - Nápoles - Benito Juárez - Distrito Federal 
- 550 m² construidos | 4 recs. ,"29,000,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
- 243 m² construidos | 4 recs. ,"10,950,000",Casa en venta , Narvarte - Benito Juárez - Distrito Federal 
- 183 m² construidos | 4 recs. ,"9,100,000",Casa en venta , Avenida Coyoacán - Del Valle Sur - Benito Juárez - Distrito Federal 
- 130 m² construidos | 2 recs. ,"5,800,000",Casa en venta , ALHAMBRA 1011 - Portales Sur - Benito Juárez - Distrito Federal 
- 389 m² construidos | 4 recs. ,"15,500,000",Casa en venta , ANEXAGORAS 29 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 261 m² construidos | 3 recs. ,"11,135,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 168 m² construidos | 3 recs. ,"7,290,000",Casa en venta , Calle 20 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 180 m² construidos | 3 recs. ,"3,380,000",Casa en venta , Benito Juárez - Distrito Federal 
- 141 m² construidos | 3 recs. ,"5,300,000",Casa en venta , Nativitas - Benito Juárez - Distrito Federal 
- 124 m² construidos | 3 recs. ,"2,700,000",Casa en venta , Castilla 142 - Alamos - Benito Juárez - Distrito Federal 
- 590 m² construidos ,"32,500,000",Casa en venta , Yosemite - Nápoles - Benito Juárez - Distrito Federal 
- 140 m² construidos | 2 recs. ,"5,800,000",Casa en venta , Portales Sur - Benito Juárez - Distrito Federal 
- 550 m² construidos | 4 recs. ,"29,000,000",Casa en venta , AMORES - Del Valle Centro - Benito Juárez - Distrito Federal 
- 229 m² construidos | 3 recs. ,"485,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
- 220 m² construidos | 3 recs. ,"10,600,000",Casa en venta , Segunda privada de Romero de Terreros - Del Valle Norte - Benito Juárez - Distrito Federal 
- 380 m² construidos | 3 recs. ,"8,500,000",Casa en venta , Iztaccíhuatl - Benito Juárez - Distrito Federal 
- 500 m² construidos | 4 recs. ,"19,200,000",Casa en venta , Miraflores - Insurgentes San Borja - Benito Juárez - Distrito Federal 
- 227 m² construidos | 3 recs. ,"9,500,000",Casa en venta , Calle San Francisco 001 - Del Valle Norte - Benito Juárez - Distrito Federal 
- 298 m² construidos | 3 recs. ,"15,800,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
- 307 m² construidos | 5 recs. ,"11,000,000",Casa en venta , Providencia - 8 De Agosto - Benito Juárez - Distrito Federal 
- 219 m² construidos | 3 recs. ,"11,000,000",Casa en venta , Segunda Cerrada de Romero de Terreros - Del Valle Norte - Benito Juárez - Distrito Federal 
- 180 m² construidos | 2 recs. ,"6,295,000",Casa en venta ," 150, avenida 1ero de mayoAvenida 1ero de Mayo - San Pedro De Los Pinos - Benito Juárez - Distrito Federal "
- 310 m² construidos | 4 recs. ,"7,800,000",Casa en venta , Napoleón 00 - Moderna - Benito Juárez - Distrito Federal 
- 385 m² construidos | 7 recs. ,"11,000,000",Casa en venta , Víctor Hugo - Albert - Benito Juárez - Distrito Federal 
- 365 m² construidos | 3 recs. ,"12,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 362 m² construidos | 3 recs. ,"10,470,000",Casa en venta , Nicolás San Juan - Narvarte - Benito Juárez - Distrito Federal 
- 330 m² construidos | 4 recs. ,"8,900,000",Casa en venta , Zempoala - Narvarte - Benito Juárez - Distrito Federal 
- 412 m² construidos ,"11,900,000",Casa en venta , General Pedro Maria Anaya - Benito Juárez - Distrito Federal 
- 257 m² construidos | 4 recs. ,"7,300,000",Casa en venta , SAN FELIPE 1 - Xoco - Benito Juárez - Distrito Federal 
- 311 m² cubiertos | 5 habs. ,"16,000,000",Casa en venta , PESTALOZZI - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 361 m² cubiertos | 3 habs. ,"13,200,000",Casa en venta , Uvas 36 (Conjunto Uvas) Casa 5 - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 275 m² cubiertos | 4 habs. ,"10,400,000",Casa en venta , Fragonard - San Juan - Benito Juárez - Distrito Federal 
- 235 m² cubiertos | 3 habs. ,"14,268,042",Casa en venta , Amores - Del Valle Centro - Benito Juárez - Distrito Federal 
- 302 m² construidos | 5 recs. ,"18,950,000",Casa en venta , tajin - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 240 m² cubiertos | 3 habs. ,"1,950,000",Casa en venta , Reembolsos 25 - Postal - Benito Juárez - Distrito Federal 
- 215 m² cubiertos | 3 habs. ,"12,620,000",Casa en venta , Cerrada de Bartolache - Del Valle Centro - Benito Juárez - Distrito Federal 
- 396 m² cubiertos | 3 habs. ,"12,600,000",Casa en venta , Patricio Sanz 1230 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 247 m² cubiertos ,"13,400,000",Casa en venta , Martín Mendalde - Del Valle Sur - Benito Juárez - Distrito Federal 
- 195 m² cubiertos | 3 habs. ,"6,720,285",Casa en venta , Vértiz Narvarte - Benito Juárez - Distrito Federal 
- 283 m² cubiertos | 3 habs. ,"12,750,000",Casa en venta , LA QUEMADA - Narvarte Oriente - Benito Juárez - Distrito Federal 
- 266 m² construidos | 5 recs. ,"8,650,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
- 246 m² cubiertos | 3 habs. ,"11,950,000",Casa en venta , Petén - Narvarte - Benito Juárez - Distrito Federal 
- 247 m² construidos | 3 habs. ,"15,046,668",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 124 m² construidos | 3 recs. ,"2,700,000",Casa en venta , Castilla 150 - Alamos - Benito Juárez - Distrito Federal 
- 1 m² construidos ,"15,500,000",Casa en venta , Manuel Lopez Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
- 230 m² construidos | 3 recs. ,"9,900,000",Casa en venta , Mier y Pesado 0001 - Del Valle Norte - Benito Juárez - Distrito Federal 
- 215 m² construidos | 2 recs. ,"9,600,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 381 m² cubiertos | 5 habs. ,"19,999,999",Casa en venta , Cadiz - Extremadura Insurgentes - Benito Juárez - Distrito Federal 
- 530 m² construidos | 4 habs. ,"16,000,000",Casa en venta , Enrique Rebsamen - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 750 m² construidos | 5 recs. ,"27,000,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
- 414 m² construidos | 5 recs. ,"12,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
- 360 m² construidos | 3 recs. ,"12,500,000",Casa en venta , Pilares - Del Valle Centro - Benito Juárez - Distrito Federal 
- 263 m² cubiertos | 3 recs. ,"14,600,000",Casa en venta ," CHUPICUARO, VERTIZ NARVARTE, BENITO JUAREZ - Vértiz Narvarte - Benito Juárez - Distrito Federal "
- 380 m² construidos | 4 recs. ,"11,500,000",Casa en venta , Patricio Sanz - Del Valle Centro - Benito Juárez - Distrito Federal 
- 124 m² cubiertos | 3 habs. ,"5,990,000",Casa en venta , La Coruña - Alamos - Benito Juárez - Distrito Federal 
- 365 m² cubiertos | 4 habs. ,"15,980,000",Casa en venta , Cerrada de José Ignacio de Bartolache 6 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 322 m² cubiertos | 3 habs. ,"11,900,000",Casa en venta , Adolfo Prieto 1332 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 320 m² cubiertos | 3 habs. ,"14,800,000",Casa en venta , Adolfo Prieto - Del Valle Norte - Benito Juárez - Distrito Federal 
- 553 m² cubiertos | 7 habs. ,"27,900,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
- 85 m² construidos | 2 habs. ,"1,600,000",Casa en venta , Av de las Américas 0 - Moderna - Benito Juárez - Distrito Federal 
- 170 m² cubiertos | 3 recs. ,"7,800,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 373 m² cubiertos | 3 habs. ,"15,000,000",Casa en venta , pitagoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 700 m² cubiertos ,"39,000,000",Casa en venta , Adolfo Prieto - Del Valle Sur - Benito Juárez - Distrito Federal 
- 261 m² construidos | 3 habs. ,"10,800,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 280 m² construidos | 4 recs. ,"12,300,000",Casa en venta , La Morena - Del Valle Norte - Benito Juárez - Distrito Federal 
- 320 m² construidos | 4 recs. ,"14,800,000",Casa en venta , Cerrada Amores 28 - Del Valle Norte - Benito Juárez - Distrito Federal 
- 248 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Luis Carraci - Extremadura Insurgentes - Benito Juárez - Distrito Federal 
- 286 m² cubiertos | 4 habs. ,"11,353,000",Casa en venta , Providencia 716 Casa 5 - Del Valle Norte - Benito Juárez - Distrito Federal 
- 278 m² cubiertos | 3 recs. ,"8,890,000",Casa en venta , Calle 9 103 bis - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 251 m² construidos | 3 habs. ,"14,916,609",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 247 m² cubiertos | 3 recs. ,"15,046,668",Casa en venta , Del Valle Sur - Benito Juárez - Distrito Federal 
- 227 m² cubiertos | 3 habs. ,"9,500,000",Casa en venta , Aniceto Ortega - Del Valle Sur - Benito Juárez - Distrito Federal 
- 330 m² cubiertos | 8 recs. ,"22,000,000",Casa en venta , Adolfo Prieto - Del Valle Centro - Benito Juárez - Distrito Federal 
- 750 m² cubiertos | 7 habs. ,"20,000,000",Casa en venta , Avenida 3 00 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
  512 m² construidos | 4 recs. ,"14,400,000",Casa en venta , López Cotilla 830 - Del Valle Centro - Benito Juárez - Distrito Federal 
  147 m² construidos | 3 recs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
  400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
@@ -718,55 +767,7 @@ attributes,price,status,adress
  485 m² construidos | 4 recs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
  190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
  150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
- 270 m² de terreno | 3 recs. ,"11,990,000",Casa en venta , Casa José Ignacio Bartolache - Benito Juárez - Distrito Federal 
- 147 m² construidos | 3 recs. ,"6,980,000",Casa en venta , CHARCO AZUL - Mixcoac - Benito Juárez - Distrito Federal 
- 400 m² construidos | 3 recs. ,"13,000,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 228 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
- 260 m² construidos | 3 recs. ,"11,675,000",Casa en venta , Juan Sánchez Azcona - Del Valle Centro - Benito Juárez - Distrito Federal 
- 500 m² construidos | 8 recs. ,"9,900,000",Casa en venta , Villa De Cortes - Benito Juárez - Distrito Federal 
- 428 m² construidos | 4 recs. ,"13,000,000",Casa en venta , Letran Valle - Benito Juárez - Distrito Federal 
- 264 m² construidos | 6 recs. ,"3,500,000",Casa en venta , Avenida Emperadores 80 - Portales - Benito Juárez - Distrito Federal 
- 389 m² construidos | 4 recs. ,"15,000,000",Casa en venta , ANEXAGORAS 55 - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 420 m² construidos | 5 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 268 m² construidos | 3 recs. ,"10,240,000",Casa en venta , Xoco - Benito Juárez - Distrito Federal 
- 290 m² construidos | 4 recs. ,"13,200,000",Casa en venta , Gral. Pedro María Anaya - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"7,450,000",Casa en venta , Del Valle Norte - Benito Juárez - Distrito Federal 
- 325 m² construidos | 3 recs. ,"11,900,000",Casa en venta , SALOME PIÑA 26 - San José Insurgentes - Benito Juárez - Distrito Federal 
- 230 m² construidos | 4 recs. ,"8,500,000",Casa en venta , Pestalozzi - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 334 m² construidos | 5 recs. ,"12,800,000",Casa en venta , Mayorazgo de Luyando 3 - Xoco - Benito Juárez - Distrito Federal 
- 210 m² construidos | 5 recs. ,"14,000,000",Casa en venta , Manuel López Cotilla - Del Valle Centro - Benito Juárez - Distrito Federal 
- 600 m² construidos | 5 recs. ,"40,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 250 m² construidos | 5 recs. ,"6,870,000",Casa en venta , tripoli 711 - Portales Sur - Benito Juárez - Distrito Federal 
- 280 m² construidos | 5 recs. ,"7,500,000",Casa en venta , Martin Mendalde 1443 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 195 m² construidos | 3 recs. ,"6,950,000",Casa en venta , amores - Del Valle Centro - Benito Juárez - Distrito Federal 
- 260 m² construidos | 2 recs. ,"8,000,000",Casa en venta , Javier Sorondo - Villa De Cortes - Benito Juárez - Distrito Federal 
- 235 m² construidos | 3 recs. ,"14,268,042",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 249 m² construidos | 3 recs. ,"15,219,666",Casa en venta ," Casa en Preventa en Del Valle Sur, Benito Juarez, Ciudad de México. - Benito Juárez - Distrito Federal "
- 263 m² construidos | 4 recs. ,"2,570,000",Casa en venta , San Francisco 0 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 720 m² construidos | 20 recs. ,"39,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 204 m² construidos | 3 recs. ,"7,600,000",Casa en venta , Mariscal Sucre 00 - Colonia Del Valle - Benito Juárez - Distrito Federal 
- 137 m² construidos | 3 recs. ,"3,999,999",Casa en venta , Isabel la Católica 910 - Postal - Benito Juárez - Distrito Federal 
- 300 m² construidos | 4 recs. ,"15,000,000",Casa en venta , Luz Saviñon - Del Valle Centro - Benito Juárez - Distrito Federal 
- 310 m² construidos | 3 recs. ,"22,500,000",Casa en venta , San Lorenzo - Del Valle Centro - Benito Juárez - Distrito Federal 
- 290 m² construidos | 4 recs. ,"12,650,000",Casa en venta , General Rincón - Gral. Pedro María Anaya - Benito Juárez - Distrito Federal 
- 267 m² construidos | 3 recs. ,"4,714,748",Casa en venta , Benito Juárez - Distrito Federal 
- 510 m² construidos | 8 recs. ,"9,900,000",Casa en venta , Carrillo y Gariel - Iztaccíhuatl - Benito Juárez - Distrito Federal 
- 290 m² construidos | 5 recs. ,"9,600,000",Casa en venta , Narvarte Oriente - Benito Juárez - Distrito Federal 
- 321 m² construidos | 3 recs. ,"16,900,000",Casa en venta , Aniceto Ortega 914 - Del Valle Centro - Benito Juárez - Distrito Federal 
- 212 m² construidos | 3 recs. ,"8,700,000",Casa en venta , monrovia 0 - Portales Sur - Benito Juárez - Distrito Federal 
- 280 m² construidos | 3 recs. ,"9,750,000",Casa en venta ," 1722, avenida CoyoacanAvenida Coyoacan - Del Valle Sur - Benito Juárez - Distrito Federal "
- 194 m² construidos | 3 recs. ,"8,400,000",Casa en venta , San Felipe - Xoco - Benito Juárez - Distrito Federal 
- 365 m² construidos | 3 recs. ,"14,500,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 365 m² construidos | 3 recs. ,"13,000,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 1 m² construidos | 3 recs. ,"12,900,000",Casa en venta , Pitágoras - Narvarte Poniente - Benito Juárez - Distrito Federal 
- 353 m² construidos | 5 recs. ,"15,000,000",Casa en venta , Moras - Del Valle Sur - Benito Juárez - Distrito Federal 
- 157 m² construidos | 3 recs. ,"7,700,504",Casa en venta , Alamos - Benito Juárez - Distrito Federal 
- 188 m² construidos | 3 recs. ,"9,200,000",Casa en venta , Del Valle Centro - Benito Juárez - Distrito Federal 
- 264 m² construidos | 3 recs. ,"11,425,000",Casa en venta , SÁNCHEZ AZCONA 1539 - Del Valle Sur - Benito Juárez - Distrito Federal 
- 485 m² construidos | 4 recs. ,"12,999,987",Casa en venta , Edzna 164 - Letran Valle - Benito Juárez - Distrito Federal 
- 190 m² construidos | 3 recs. ,"10,000,000",Casa en venta , DEL VALLE - Del Valle Centro - Benito Juárez - Distrito Federal 
- 150 m² construidos | 3 recs. ,"4,100,000",Casa en venta , Benito Juárez - Distrito Federal 
- 270 m² de terreno | 3 recs. ,"11,990,000",Casa en venta , Casa José Ignacio Bartolache - Benito Juárez - Distrito Federal 
+ 1 m² construidos | 5 recs. ,"11,500,000",Casa en venta , Cerrada de Tajín - Acacias - Benito Juárez - Distrito Federal 
  549 m² construidos | 4 recs. ,"11,900,000",Casa en venta , Puente xoco 77 - Xoco - Benito Juárez - Distrito Federal 
  310 m² construidos | 3 recs. ,"15,774,000",Casa en venta , TH-A Dallas - Nápoles - Benito Juárez - Distrito Federal 
  428 m² construidos | 3 recs. ,"33,889,400",Casa en venta , Francisco Sosa - Del Carmen - Benito Juárez - Distrito Federal 
@@ -985,9 +986,9 @@ attributes,price,status,adress
  200 m² construidos | 4 recs. ,"1,049,998",Casa en venta , MARIA HERNANDEZ ZARCO 68 - Alamos - Benito Juárez - Distrito Federal 
  180 m² construidos | 3 recs. ,"5,848,490",Casa en venta , Vértiz Narvarte - Benito Juárez - Distrito Federal 
  1 m² construidos | 4 recs. ,"13,900,000",Casa en venta , Narvarte Poniente - Benito Juárez - Distrito Federal 
- 219 m² construidos | 3 recs. ,"13,686,875",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
- 400 m² construidos | 3 recs. ,"13,400,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
- 218 m² construidos | 3 recs. ,"2,240,000",Casa en venta , EMPERADORES 0 - Portales - Benito Juárez - Distrito Federal 
+ 219 m² cubiertos | 3 habs. ,"13,686,875",Casa en venta , Dallas - Nápoles - Benito Juárez - Distrito Federal 
+ 400 m² cubiertos | 3 habs. ,"13,400,000",Casa en venta , San José Insurgentes - Benito Juárez - Distrito Federal 
+ 218 m² cubiertos | 3 habs. ,"2,240,000",Casa en venta , EMPERADORES 0 - Portales - Benito Juárez - Distrito Federal 
  271 m² construidos | 3 recs. ,"10,990,000",Casa en venta , Avenida Río Churubusco 277 - General Pedro Maria Anaya - Benito Juárez - Distrito Federal 
  228 m² construidos | 3 recs. ,"13,982,500",Casa en venta , Casas en Condominio en Pre-venta Colonia Nápoles - Ampliación Napoles - Benito Juárez - Distrito Federal 
  168 m² construidos | 3 recs. ,"6,800,000",Casa en venta , Heriberto Frías - Narvarte - Benito Juárez - Distrito Federal 
@@ -1006,4 +1007,3 @@ attributes,price,status,adress
  293 m² construidos | 3 recs. ,"11,000,000",Casa en venta , SALOME PIÑA 00 - San José Insurgentes - Benito Juárez - Distrito Federal 
  180 m² construidos | 3 recs. ,"1,155,966",Casa en venta , CASTILLA 142 - Alamos - Benito Juárez - Distrito Federal 
  350 m² construidos | 5 recs. ,"9,500,000",Casa en venta , 22 1 - San Pedro De Los Pinos - Benito Juárez - Distrito Federal 
- 320 m² construidos | 4 recs. ,"1,452,365",Casa en venta , MARTIN MENDALDE 1443 - Del Valle Sur - Benito Juárez - Distrito Federal 
