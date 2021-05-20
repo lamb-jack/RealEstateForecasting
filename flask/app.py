@@ -12,6 +12,10 @@ mongo = PyMongo(app)
 def index():
     return render_template("index.html", listings=[])
 
+@app.route("/map")
+def map():
+    return render_template("choropleth.html", listings=[])
+
 @app.route("/etl/<mun>")
 def etl(mun):
     features = mongo.db.features
